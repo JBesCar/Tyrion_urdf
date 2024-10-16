@@ -45,7 +45,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://rotors_description/meshes/tyrion.stl" scale="1 1 1"/>
+        <mesh filename="package://rotors_description/meshes/tyrion_light.dae" scale="0.01 0.01 0.01"/>
       </geometry>
     </visual>
     <collision>
